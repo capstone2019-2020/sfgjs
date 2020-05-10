@@ -5,7 +5,7 @@
 const algebra = require('./rwalgebrajs/RWalgebra.js');
 const math = require('mathjs');
 const readline = require('readline');
-const m1helper = require('./m1helper.js');
+const m1helper = require('./mason.js');
 const datamodel = require('./datamodel.js');
 
 function getEquations() {
