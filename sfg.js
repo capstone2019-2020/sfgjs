@@ -2,7 +2,7 @@
  * Import the required libraries
  */
 // const algebra = require('algebra.js');
-const algebra = require('../RWalgebra/RWalgebra.js');
+const algebra = require('./rwalgebra/RWalgebra.js');
 const math = require('mathjs');
 const readline = require('readline');
 const m1helper = require('./m1helper.js');

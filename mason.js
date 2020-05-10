@@ -1,4 +1,4 @@
-const algebra = require('../RWalgebra/RWalgebra.js');
+const algebra = require('./rwalgebra/RWalgebra.js');
 const Expression = algebra.Expression;
 
 const DEBUG = 0;
